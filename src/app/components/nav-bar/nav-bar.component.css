@@ -1,0 +1,18 @@
+.logo{
+    margin-left: 3.5vw;
+    width: 9vw;
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 14vh;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.1);
+    font-family: 'HVDTrial Brandon Grotesque', sans-serif;
+    letter-spacing: 3px;
+    font-weight: 500;
+    font-size: 0.8vw;
+}
+a{
+    margin-right: 3vw;
+}
