@@ -1,0 +1,70 @@
+.component1{
+    width: 100%;
+    height: 38vh;
+    margin-left: -8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.div1{
+    width: 65vw;
+    height: 31vh;
+    font-family: 'HVDTrial Brandon Grotesque', sans-serif;
+    font-weight: bold;
+    font-size: 0.8vw;
+    letter-spacing: 0.2vw;
+    display: flex;
+    gap: 1vw;
+    color: white;
+}
+.contenedor1{
+    background-image: url(/bg-comp3-cont1.jpg);
+    height: 100%;
+    width: 33%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.contenedor2{
+    background-color: black;
+    height: 100%;
+    width: 33%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.contenedor3{
+    background-image: url(/bg-comp3-cont3.jpg);
+    height: 100%;
+    width: 33%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.logo-cont1{
+    width: 15vw;
+}
+.logo-d{
+    width: 5vw;
+}
+.logo-cont2{
+    width: 20vw;
+    margin-bottom: -1vw;
+}
+.logo-cont3{
+    width: 10vw;
+    margin-bottom: -1vw;
+}
